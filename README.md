@@ -1,8 +1,8 @@
-#🛒 AmazonClone
+🛒 AmazonClone
 
 AmazonClone is a frontend e-commerce web application inspired by Amazon. It allows users to browse products, apply filters, search items, and add products to the cart with a modern and responsive UI.
 
-##✨ Features
+✨ Features
 
 Product listing with ratings & prices
 
@@ -14,7 +14,7 @@ Responsive design
 
 Clean footer with useful links
 
-##🛠 Tech Stack
+🛠 Tech Stack
 
 React.js
 
